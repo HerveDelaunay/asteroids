@@ -1,0 +1,5 @@
+[tools]
+python = 'latest'
+gh = 'latest'
+go = "latest"
+uv = "latest"
